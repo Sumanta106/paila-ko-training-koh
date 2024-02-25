@@ -1,0 +1,30 @@
+.heading {
+    color: black;
+    background-color: #9966CC;
+    display: flex;
+    margin-top: -5px;
+}
+
+.img {
+    display: block;
+    padding: 50px;
+    margin-top: -30px;
+}
+
+.heading h6 {
+    padding-right: 60px;
+}
+
+.lis {
+    list-style: none;
+    display: flex;
+    margin-top: -5px;
+    justify-content: space-around;
+    gap: 10px;
+    padding-right: 60px;
+    -ms-flex-align: end;
+
+}
+li{
+    justify-content: space-around;
+}
